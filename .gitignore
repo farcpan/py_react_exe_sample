@@ -1,0 +1,8 @@
+.venv
+
+# api
+api/build
+api/dist
+api/frontend/assets
+api/frontend/index.html
+api/frontend/*.svg
